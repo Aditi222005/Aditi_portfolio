@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { FaReact, FaHtml5, FaCss3Alt } from 'react-icons/fa'
-import { SiJavascript, SiTailwindcss, SiMysql } from 'react-icons/si'
+import { SiJavascript, SiTailwindcss } from 'react-icons/si'
 import { SiMongodb, SiExpress, SiNodedotjs } from 'react-icons/si'
 
 const Skills:React.FC = () => {
